@@ -15,11 +15,6 @@
 <img src="https://skillicons.dev/icons?i=js" height="28"/><br>
 <sub>JavaScript</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" height="28"/><br>
-<sub>TypeScript</sub>
-</td>
 </tr>
 </table>
 
@@ -32,23 +27,8 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/zustand/white" height="28"/><br>
-<sub>Zustand</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/tanstack/white" height="28"/><br>
-<sub>TanStack</sub>
-</td>
-
-<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=tailwind" height="28"/><br>
 <sub>Tailwind</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vite" height="28"/><br>
-<sub>Vite</sub>
 </td>
 </tr>
 </table>
@@ -120,5 +100,6 @@
 <img src="https://cdn.simpleicons.org/render/white" height="28"/><br>
 <sub>Render</sub>
 </td>
+
 </tr>
 </table>
